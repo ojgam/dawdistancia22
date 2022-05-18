@@ -5,7 +5,7 @@
 */
 
   /**
-    * Función multiplica de dos números
+    * Función que multiplica dos números
     * @param int $num1 número a multiplicar
     * @param int $num2 número a multiplicar
     * @return float
@@ -19,7 +19,7 @@
 
 
   /**
-    * Función divide de dos números
+    * Función que divide dos números
     * @param int $num1 número a dividir
     * @param int $num2 número a dividir
     * @return float
